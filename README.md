@@ -1,6 +1,6 @@
 # Embedchain
 
-Official github : https://github.com/embedchain/embedchain
+Inspired by : https://github.com/embedchain/embedchain
 
 
 1.
